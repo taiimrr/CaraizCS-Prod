@@ -33,17 +33,17 @@ const Coming = () => {
         <div className="container">
           <div className="py-24 text-center">
             <h1 className="text-jacarta-700 font-display mb-6 text-5xl dark:text-white lg:text-6xl xl:text-7xl">
-              Coming Soon.
+              Caraiz
             </h1>
             <p className="font-display dark:text-jacarta-200 mb-8 text-lg">
             Platform focused on providing added value to the resell of cars by offering traceability and insight in the life of a car, increasing therefore the transparency and subsequnt value of a resell. 
             </p>
             <div className="inline-flex space-x-4">
               <Link
-                href="https://www.taiimrr.com/"
+                href="#"
                 className="bg-accent shadow-accent-volume hover:bg-accent-dark w-50 rounded-full py-3 px-8 text-center font-semibold text-white transition-all"
               >
-                Contact Team
+                Coming Soon
               </Link>
            
             </div>
