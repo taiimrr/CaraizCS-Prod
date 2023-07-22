@@ -1,1 +1,1 @@
-## Frontend For Caraiz
+## Coming Soon page
